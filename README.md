@@ -29,13 +29,13 @@ numpy
 tqdm
 requests
 beautifulsoup4
-pypdf            # or: pdfplumber
-pdfplumber       # optional alternative for extraction
-selenium         # optional: dynamic pages/pagination
-webdriver-manager# optional: chromedriver management
-papermill        # optional: automate notebook runs
-python-dotenv    # optional: use .env for config
-pyyaml           # optional: YAML config
+pypdf            
+pdfplumber       
+selenium         
+webdriver-manager
+papermill        
+python-dotenv 
+pyyaml           
 ```
 
 **Configure (either edit the first notebook or create a `.env`):**
